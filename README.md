@@ -13,6 +13,6 @@ On that part, we trained models using our raw data, without cleaning them
 ## Second notebook : Different tokenizers
 On that notebook, we tried to tokenize mainly using the regular expression library (re)
 ## Third notebook : Text classification using NTLK (natural language toolkit)
-On that last part, we decided to create a new DataFrame containing new features about the properties of the sentences. Once cleaned, we use the ntlk library to clean the data before trainaing them in our models.
+On that last part, we decided to create a new DataFrame containing new features about the properties of the sentences. Once cleaned, we used the ntlk library to clean the data before training them in our models.
 ## References
 
