@@ -31,3 +31,7 @@ On that last part, we decided to create a new DataFrame containing new features 
 * https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769
 * https://goodboychan.github.io/python/datacamp/natural_language_processing/2020/07/15/01-Regular-expressions-and-word-tokenization.html#Introduction-to-regular-expressions
 * https://github.com/madhurimamandal/Text-classification-into-difficulty-levels
+
+
+## Link to the video:
+https://youtu.be/_brbn06FdX4
