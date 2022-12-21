@@ -1,5 +1,8 @@
 # Team_zoom_coding_challenge - Training a model to compute french difficulty
 *This is our way of resolving the coding challenge!*
+<img width="1283" alt="Screenshot 2022-12-21 at 18 56 47" src="https://user-images.githubusercontent.com/83650518/208972877-dfa0ba2a-fb0e-44e2-b21e-99b09ae462d8.png">
+
+
 ## Summary
 * CSV Files
 * First notebook : Project guidelines
