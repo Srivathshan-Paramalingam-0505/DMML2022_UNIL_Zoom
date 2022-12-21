@@ -17,6 +17,7 @@ On that last part, we decided to create a new DataFrame containing new features 
 ## References
 
 *Main reference: 
-**https://scikit-learn.org/stable/index.html
+https://scikit-learn.org/stable/index.html
 *Reference for the feature extraction
-**https://docs.python.org/3/howto/regex.html
+https://docs.python.org/3/howto/regex.html
+https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61
