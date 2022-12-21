@@ -16,8 +16,8 @@ On that notebook, we tried to tokenize using several ways, particularly with the
 On that last part, we decided to create a new DataFrame containing new features about the properties of the sentences. Once cleaned, we used the ntlk library to clean the data before training them in our models.
 ## References
 
-*Main reference: 
+* Main reference: 
 https://scikit-learn.org/stable/index.html
-*Reference for the feature extraction
+* Reference for the feature extraction
 https://docs.python.org/3/howto/regex.html
 https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61
