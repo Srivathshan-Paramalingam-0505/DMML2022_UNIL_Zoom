@@ -21,3 +21,4 @@ On that last part, we decided to create a new DataFrame containing new features 
 ### Reference for the feature extraction
 * https://docs.python.org/3/howto/regex.html
 * https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61
+* https://datacorner.fr/nltk/
