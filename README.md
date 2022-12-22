@@ -6,21 +6,14 @@
 
 ## Summary
 * CSV Files
-* First notebook : Project guidelines
-* Second notebook : Different tokenizers
-* Third notebook : Text classification using NTLK (natural language toolkit)
+* Codes Notebooks
 * References
 
 ## CSV Files
 It contains provided data from the Kaggle competition
-## First notebook : Project guidelines
-On that part, we trained models using our raw data, without cleaning them
-## Second notebook : Different tokenizers
-On that notebook, we tried to tokenize using several ways, particularly with the following libraries : regular expression (re) and spacy tokenizer
-## Third notebook : Text classification using Feature Extractions
-On that last part, we decided to create a new DataFrame containing new features about the properties of the sentences. Once cleaned, we used the ntlk library to clean the data before training them in our models.
+## Codes Notebooks
+It contains the different Google Collab notebooks we created to realize our tests
 ## References
-
 ### Main references: 
 * https://scikit-learn.org/stable/index.html
 * https://github.com/michalis0/DataMining_and_MachineLearning
@@ -31,7 +24,5 @@ On that last part, we decided to create a new DataFrame containing new features 
 * https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769
 * https://goodboychan.github.io/python/datacamp/natural_language_processing/2020/07/15/01-Regular-expressions-and-word-tokenization.html#Introduction-to-regular-expressions
 * https://github.com/madhurimamandal/Text-classification-into-difficulty-levels
-
-
 ## Link to the video:
 https://youtu.be/_brbn06FdX4
